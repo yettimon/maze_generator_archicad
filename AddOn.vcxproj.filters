@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOn\AddOnMain.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOn\MazeGenerator.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOn\MazeSettings.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOn\MazeSettingsDialog.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOn\APIEnvir.h">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOn\MazeGenerator.hpp">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOn\MazeSettings.hpp">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOn\MazeSettingsDialog.hpp">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOn\ResourceIds.hpp">
+      <Filter>Sources</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{68BD71F0-FAC5-31B8-8E1E-89D9F825CC8B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

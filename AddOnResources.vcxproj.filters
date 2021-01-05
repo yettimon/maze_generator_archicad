@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\install\Desktop\archicad-maze-generator-master\Build\CMakeFiles\18a62b96f6f87232b54cb66f27ab972a\AddOnResources.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\install\Desktop\archicad-maze-generator-master\Build\CMakeFiles\6e51fb675f6ee112fe3b867a796fa811\AddOnResources.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOnResources\RFIX.win\AddOnMain.rc2">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOnResources\RFIX\AddOnFix.grc">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOnResources\RINT\AddOn.grc">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOnResources\Tools\CompileResources.py">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOnResources\RFIX\Images\AddOnIcon_18x18.svg">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="C:\Users\install\Desktop\archicad-maze-generator-master\Sources\AddOnResources\RFIX\Images\DialogDrawing_220x160.svg">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="C:\Users\install\Desktop\archicad-maze-generator-master\Build\CMakeFiles\AddOnResources" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{270B2558-7805-3D94-A750-D9243E09609F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Images">
+      <UniqueIdentifier>{05E40BEA-4FF2-365F-B510-250FEA4103CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{DC7F5A59-57E0-30AF-AE66-794735F041EB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
